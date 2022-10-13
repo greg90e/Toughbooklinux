@@ -1,2 +1,2 @@
-# Toughbooklinux
-Troubleshooting known linux install issues
+# Panasonic cf20 model 1 display brightness issues 
+
